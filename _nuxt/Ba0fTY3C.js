@@ -1,0 +1,1 @@
+import{_ as o}from"./BQDRPl6s.js";import{_ as a,c as n,a as s,b as r,w as _,o as d,d as c}from"./O-2zAfN1.js";const l={};function u(f,t){const e=o;return d(),n("div",null,[t[1]||(t[1]=s("h1",null,"About Maika",-1)),r(e,{to:"/"},{default:_(()=>t[0]||(t[0]=[c("Maika")])),_:1})])}const p=a(l,[["render",u],["__scopeId","data-v-869defd0"]]);export{p as default};
